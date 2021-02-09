@@ -88,8 +88,8 @@ else{ $color = "#BA68C8";}
 
 </div>
 <div style="text-align:center;color:#111;font-size:7px;font-weight:bold;margin:0px;padding:2.5px;">
-hubungkan ke wifi @SukasirnaHotspot lalu
-buka browser lalu ketik http://sukasirnahotspot.com 
+hubungkan ke wifi @Hotspot lalu
+buka browser lalu ketik http://vitazny.net 
 </div>
 </td>	
 <td style="width:100px;text-align:right;">
@@ -101,8 +101,8 @@ buka browser lalu ketik http://sukasirnahotspot.com
 </tr>
 <tr>
 <td style="background:<?php echo $color ?>;color:#666;padding:0px;" valign="top" colspan="2">
-<div style="text-align:left;color:#fff;font-size:9px;font-weight:bold;margin:0px;padding:2.5px;">
-CS: <b>0857 9333 3977</b>
+<div style="text-align:left;color:#fff;font-size:6.5px;font-weight:bold;margin:0px;padding:2.5px;">
+<b>JANGAN BUANG SEBELUM HABIS</b>
 </div>
 </td>
 </tr>
